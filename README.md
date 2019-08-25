@@ -1,0 +1,2 @@
+# escueladenegocios
+GitHub Pages
